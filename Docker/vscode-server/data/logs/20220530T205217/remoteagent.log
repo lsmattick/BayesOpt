@@ -1,0 +1,54 @@
+[2022-05-30 20:52:17.272] [remoteagent] [info] Extension host agent started.
+[2022-05-30 20:52:17.311] [remoteagent] [debug] ComputeTargetPlatform: linux-x64
+[2022-05-30 20:52:17.347] [remoteagent] [info] [127.0.0.1][529721de][ManagementConnection] New connection established.
+[2022-05-30 20:52:17.522] [remoteagent] [info] [127.0.0.1][8b6977dd][ExtensionHostConnection] New connection established.
+[2022-05-30 20:52:17.527] [remoteagent] [info] [127.0.0.1][8b6977dd][ExtensionHostConnection] <437> Launched Extension Host Process.
+[2022-05-30 20:52:18.788] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-30 20:52:18.793] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-05-30 20:52:18.795] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-05-30 20:52:18.799] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-05-30 20:52:18.873] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-30 20:52:18.877] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-05-30 20:52:18.878] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-05-30 20:52:18.910] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-30 20:52:18.946] [remoteagent] [info] Installing extension: ms-python.python
+[2022-05-30 20:52:19.026] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-keymap-1.0.0
+[2022-05-30 20:52:19.027] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-renderers-1.0.7
+[2022-05-30 20:52:19.043] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.2927cd82-d535-4e61-bcbf-c7aeadec1667: ms-toolsai.jupyter-keymap
+[2022-05-30 20:52:19.049] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-05-30 20:52:19.051] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-05-30 20:52:19.051] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-05-30 20:52:19.238] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.0e2d01c7-7ecd-427b-afdc-31984509cc12: ms-toolsai.jupyter-renderers
+[2022-05-30 20:52:19.246] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.7
+[2022-05-30 20:52:19.248] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-05-30 20:52:19.248] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-05-30 20:52:19.265] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-05-30 20:52:19.321] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-2022.4.1021342353
+[2022-05-30 20:52:19.385] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-05-30 20:52:19.432] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-30 20:52:19.713] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-05-30 20:52:19.790] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-05-30 20:52:19.837] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.4843df25-8045-4c9e-ad25-6d2896d00529: ms-toolsai.jupyter
+[2022-05-30 20:52:19.845] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-2022.4.1021342353
+[2022-05-30 20:52:19.862] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-05-30 20:52:19.862] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-05-30 20:52:19.887] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-30 20:52:20.050] [remoteagent] [info] Extension is already requested to install ms-python.vscode-pylance
+[2022-05-30 20:52:20.071] [remoteagent] [info] Downloaded extension: ms-python.python /root/.vscode-server/extensionsCache/ms-python.python-2022.6.2
+[2022-05-30 20:52:20.144] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-30 20:52:20.599] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-05-30 20:52:20.671] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-05-30 20:52:20.783] [remoteagent] [info] Extension is already requested to install ms-python.python
+[2022-05-30 20:52:20.813] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /root/.vscode-server/extensionsCache/ms-python.vscode-pylance-2022.5.3
+[2022-05-30 20:52:21.633] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.d73a8236-8068-4789-8118-3feb37d62b37: ms-python.python
+[2022-05-30 20:52:21.643] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2022.6.2
+[2022-05-30 20:52:21.650] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-05-30 20:52:21.651] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-05-30 20:52:23.308] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.84895b95-5b43-4fde-b940-094cff8a91b1: ms-python.vscode-pylance
+[2022-05-30 20:52:23.323] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.3
+[2022-05-30 20:52:23.324] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-30 20:52:23.325] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-05-30 20:52:27.186] [remoteagent] [info] [127.0.0.1][8b6977dd][ExtensionHostConnection] <437> Starting WebSocket: RAW/api/kernels/a58631ff-0ea5-4a30-8db1-29ea207c0fd1
+
+[2022-05-30 20:52:27.199] [remoteagent] [info] [127.0.0.1][8b6977dd][ExtensionHostConnection] <437> Kernel: starting (a58631ff-0ea5-4a30-8db1-29ea207c0fd1)
+

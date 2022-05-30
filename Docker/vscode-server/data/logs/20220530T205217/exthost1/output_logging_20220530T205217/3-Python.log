@@ -1,0 +1,15 @@
+Experiment 'pythonaa' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonInterpreterInfoPinned' is active
+> conda info --json
+> /benv/venv/bin/python ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+> /usr/local/bin/python ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/interpreterInfo.py
+Python interpreter path: /benv/venv/bin/python
+> . /benv/venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/printEnvVariables.py
+Starting Jedi language server for default.
+> . /benv/venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/printEnvVariables.py
+> . /benv/venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/printEnvVariables.py
+> . /benv/venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode-server/extensions/ms-python.python-2022.6.2/pythonFiles/printEnvVariables.py
